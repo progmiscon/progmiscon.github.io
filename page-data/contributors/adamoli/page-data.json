@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-contributor-js",
+    "path": "/contributors/adamoli/",
+    "result": {"data":{"contributorsYaml":{"name":"Andrea A.","org":"Università della Svizzera italiana","role":"Andrea develops a concept inventory and contributes and reviews misconceptions.","bio":"Andrea is a researcher, focusing on concept inventories for programming.","homepage":null,"twitter":null,"linkedin":null,"image":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/1e84a21f495fd4503f49956be49793b2/baaed/adamoli.jpg","srcSet":"/static/1e84a21f495fd4503f49956be49793b2/0f5ce/adamoli.jpg 750w,\n/static/1e84a21f495fd4503f49956be49793b2/baaed/adamoli.jpg 800w","sizes":"100vw"},"sources":[{"srcSet":"/static/1e84a21f495fd4503f49956be49793b2/4f03f/adamoli.webp 750w,\n/static/1e84a21f495fd4503f49956be49793b2/c1587/adamoli.webp 800w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1},"resize":{"src":"/static/1e84a21f495fd4503f49956be49793b2/df0e7/adamoli.jpg","height":512}}}}},"pageContext":{"slug":"adamoli"}},
+    "staticQueryHashes": ["3649515864","4169798128"]}
