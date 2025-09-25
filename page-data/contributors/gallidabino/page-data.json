@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-contributor-js",
+    "path": "/contributors/gallidabino/",
+    "result": {"data":{"contributorsYaml":{"name":"Andrea Gallidabino","org":"Università della Svizzera italiana","role":"Andrea contributed JavaScript misconceptions and made various contributions throughout the site.","bio":"Andrea was a PostDoc at Università della Svizzera italiana and now is a high school informatics teacher.","homepage":"https://www.inf.usi.ch/phd/gallidabino/","linkedin":"andrea-gallidabino","image":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/99464f84f22aadd618f2f99adbe4cb09/d6138/gallidabino.png","srcSet":"/static/99464f84f22aadd618f2f99adbe4cb09/d6138/gallidabino.png 400w","sizes":"100vw"},"sources":[{"srcSet":"/static/99464f84f22aadd618f2f99adbe4cb09/416c3/gallidabino.webp 400w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1},"resize":{"src":"/static/99464f84f22aadd618f2f99adbe4cb09/f0914/gallidabino.png","height":512}}}}},"pageContext":{"slug":"gallidabino"}},
+    "staticQueryHashes": ["3649515864","4169798128"]}

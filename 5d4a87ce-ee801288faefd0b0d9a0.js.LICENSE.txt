@@ -1,0 +1,17 @@
+/*
+ * scratchblocks
+ * http://scratchblocks.github.io/
+ *
+ * Copyright 2013-2016, Tim Radvan
+ * @license MIT
+ * http://opensource.org/licenses/MIT
+ */
+
+/**
+ * scratchblocks v3.6.3
+ * https://scratchblocks.github.io/
+ * Render scratchblocks code to SVG images.
+ *
+ * Copyright 2013–2023, Tim Radvan
+ * @license MIT
+ */

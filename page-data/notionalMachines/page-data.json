@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-notional-machines-js",
+    "path": "/notionalMachines/",
+    "result": {"data":{"allMdx":{"nodes":[{"frontmatter":{"id":"ControlFlowAsGraph","name":"Control Flow as Graph","shortDescription":"Represent execution paths through a method or function as a graph"},"parent":{"name":"ControlFlowAsGraph"}},{"frontmatter":{"id":"ExpressionAsTree","name":"Expression as Tree","shortDescription":"Represent operators and operands as tree nodes"},"parent":{"name":"ExpressionAsTree"}},{"frontmatter":{"id":"StackHeapGlobalDiagram","name":"Stack Heap Global Diagram","shortDescription":"Represent variables as boxes, organized in different memory areas"},"parent":{"name":"StackHeapGlobalDiagram"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["3281885743","3649515864","4169798128"]}

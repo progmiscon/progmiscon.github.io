@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-contributor-js",
+    "path": "/contributors/bevilacqua/",
+    "result": {"data":{"contributorsYaml":{"name":"Joey Bevilacqua","org":"Università della Svizzera italiana","role":"Joey is making contributions across the site.","bio":"Joey is a PhD student at Università della Svizzera italiana.","homepage":"https://bvlj.pages.dev","linkedin":"bvlj","image":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/1ffe1c0179629aa46ff5881e5c830f08/ba15f/bevilacqua.jpg","srcSet":"/static/1ffe1c0179629aa46ff5881e5c830f08/0f5ce/bevilacqua.jpg 750w,\n/static/1ffe1c0179629aa46ff5881e5c830f08/ba15f/bevilacqua.jpg 984w","sizes":"100vw"},"sources":[{"srcSet":"/static/1ffe1c0179629aa46ff5881e5c830f08/4f03f/bevilacqua.webp 750w,\n/static/1ffe1c0179629aa46ff5881e5c830f08/d556e/bevilacqua.webp 984w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1},"resize":{"src":"/static/1ffe1c0179629aa46ff5881e5c830f08/df0e7/bevilacqua.jpg","height":512}}}}},"pageContext":{"slug":"bevilacqua"}},
+    "staticQueryHashes": ["3649515864","4169798128"]}
