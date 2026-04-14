@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-contributor-js",
+    "path": "/contributors/tafliovich/",
+    "result": {"data":{"contributorsYaml":{"name":"Anya Tafliovich","org":"University of Toronto","role":"Anya develops a version of the concept inventory for Python and reviews misconceptions.","bio":"Anya is an Associate Professor Teaching Stream in the Department of Computer and Mathematical Sciences at the University of Toronto Scarborough.","homepage":"https://utsc.utoronto.ca/~atafliovich/","linkedin":"anya-tafliovich","image":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#381808","images":{"fallback":{"src":"/static/696d28ec09ddfd357e3bc6e4325db88c/3c367/tafliovich.jpg","srcSet":"/static/696d28ec09ddfd357e3bc6e4325db88c/3c367/tafliovich.jpg 512w","sizes":"100vw"},"sources":[{"srcSet":"/static/696d28ec09ddfd357e3bc6e4325db88c/d689f/tafliovich.webp 512w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1},"resize":{"src":"/static/696d28ec09ddfd357e3bc6e4325db88c/df0e7/tafliovich.jpg","height":512}}}}},"pageContext":{"slug":"tafliovich"}},
+    "staticQueryHashes": ["3649515864","4169798128"]}

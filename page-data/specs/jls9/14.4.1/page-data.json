@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-specification-section-js",
+    "path": "/specs/jls9/14.4.1",
+    "result": {"data":{"allMdx":{"nodes":[{"frontmatter":{"name":"Java Language Specification","version":"Java SE 9 Edition","pl":"Java","home":"https://docs.oracle.com/javase/specs/jls/se9/html/index.html","baseUrl":"https://docs.oracle.com/javase/specs/jls/se9/html/jls-","sections":[{"section":"8.3","title":"Field Declarations","url":"8.html#jls-8.3"},{"section":"14.4","title":"Local Variable Declaration Statements","url":"14.html#jls-14.4"},{"section":"14.4.1","title":"Local Variable Declarators and Types","url":"14.html#jls-14.4.1"}]},"parent":{"name":"jls9"}}]},"mcs":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/misconceptions/Java/UntypedVariables/","name":"UntypedVariables"},"frontmatter":{"shortDescription":"Variable declarations don't need a type","text":[{"id":"ssj4","sections":["1"]},{"id":"ssj4","sections":["2"]}]}}}]}},"pageContext":{"glob":"**/src/data/specs/jls9.md","specificationId":"jls9","sectionId":"14.4.1"}},
+    "staticQueryHashes": ["3649515864","4169798128"]}

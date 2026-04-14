@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-contributor-js",
+    "path": "/contributors/chiodini/",
+    "result": {"data":{"contributorsYaml":{"name":"Luca Chiodini","org":"Università della Svizzera italiana","role":"Luca carried out a qualitative study during his Master's thesis, expanding the set of misconceptions and providing examples.","bio":"Luca is a PhD student at Università della Svizzera italiana.","homepage":"https://www.chiodini.org","linkedin":"lucachiodini","image":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/d7af03e6e64c75b337416939cd724ea7/dd515/chiodini.jpg","srcSet":"/static/d7af03e6e64c75b337416939cd724ea7/dd515/chiodini.jpg 200w","sizes":"100vw"},"sources":[{"srcSet":"/static/d7af03e6e64c75b337416939cd724ea7/2e34e/chiodini.webp 200w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1},"resize":{"src":"/static/d7af03e6e64c75b337416939cd724ea7/df0e7/chiodini.jpg","height":512}}}}},"pageContext":{"slug":"chiodini"}},
+    "staticQueryHashes": ["3649515864","4169798128"]}

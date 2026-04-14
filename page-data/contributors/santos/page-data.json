@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-contributor-js",
+    "path": "/contributors/santos/",
+    "result": {"data":{"contributorsYaml":{"name":"André Santos","org":"Instituto Universitário de Lisboa","role":"André develops a Portuguese version of the concept inventory and reviews misconceptions.","bio":"André is an Assistant Professor at ISCTE, focusing on computing education, software reuse, and program comprehension.","homepage":"https://sites.google.com/site/andrelsantosweb/","linkedin":null,"image":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/11d1dc712df2b8f4e7e3ed0631fa3bc6/de3a1/santos.png","srcSet":"/static/11d1dc712df2b8f4e7e3ed0631fa3bc6/de3a1/santos.png 150w","sizes":"100vw"},"sources":[{"srcSet":"/static/11d1dc712df2b8f4e7e3ed0631fa3bc6/c65bc/santos.webp 150w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1},"resize":{"src":"/static/11d1dc712df2b8f4e7e3ed0631fa3bc6/f0914/santos.png","height":512}}}}},"pageContext":{"slug":"santos"}},
+    "staticQueryHashes": ["3649515864","4169798128"]}
